@@ -29,4 +29,8 @@ class HomePage extends StatelessWidget {
         title: const Text('Test App Home'),
       ),
       body: const Center(
-        child
+        child: Text('Hello, this is Test App!'),
+      ),
+    );
+  }
+}
